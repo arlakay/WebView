@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\abdur\Dropbox\OCTO-Health\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b83349ad8f7a9b71d81e157360d7f1bfbdb7649e">
+        <dex dex="C:\Users\abdur\Dropbox\OCTO-Health\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0eecded450c61f002bcfbce04eb92259ce5311a2\classes.dex" />
+    </item>
+
+</items>
